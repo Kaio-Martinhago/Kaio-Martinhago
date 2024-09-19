@@ -1,5 +1,5 @@
 # Oi, eu sou o Kaio! 👋
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
 Outras redes sociais onde você pode me encontrar:
 <p></p>
 
